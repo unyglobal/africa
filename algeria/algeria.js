@@ -1,0 +1,3 @@
+// Generated directory metadata; public geographic tree.
+export const directory = Object.freeze({"name":"algeria","repository":"africa","path":"algeria","depth":1,"children":["adrar","ain-defla","ain-temouchent","algiers","annaba","batna","bechar","bejaia","biskra","blida","bordj-bou-arreridj","bouira","boumerdes","chlef","constantine","djelfa","el-bayadh","el-menia","el-mghair","el-oued","el-tarf","ghardaia","guelma","in-salah","jijel","khenchela","laghouat","m-sila","mascara","medea","mila","mostaganem","naama","oran","ouargla","ouled-djellal","oum-el-bouaghi","relizane","saida","setif","sidi-bel-abbes","skikda","souk-ahras","tamanrasset","tebessa","tiaret","timimoun","tindouf","tipaza","tissemsilt","tizi-ouzou","tlemcen","touggourt"]});
+export default directory;

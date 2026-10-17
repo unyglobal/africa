@@ -1,0 +1,3 @@
+// Generated directory metadata; public geographic tree.
+export const directory = Object.freeze({"name":"gauteng","repository":"africa","path":"south-africa/gauteng","depth":2,"children":["alberton","alexandra","bagale","benoni","boksburg","brakpan","bronkhorstspruit","carletonville","centurion","cullinan","diepsloot","edenvale","ekangala","etwatwa","evaton","germiston","heidelberg","ivory-park","johannesburg","krugersdorp","mabopane","midrand","midstream","nigel","pretoria","randburg","randfontein","roodepoort","soshanguve","soweto","springs","thembisa","tokoza","vanderbijlpark","vereeniging","verena","westonaria"]});
+export default directory;

@@ -1,0 +1,3 @@
+// Generated directory metadata; public geographic tree.
+export const directory = Object.freeze({"name":"nigeria","repository":"africa","path":"nigeria","depth":1,"children":["abia-state","adamawa","akwa-ibom-state","anambra","bauchi","bayelsa-state","benue-state","borno-state","cross-river-state","daura","daura-a","delta","ebonyi-state","edo-state","ekiti-state","enugu-state","fct","gombe-state","imo-state","jigawa-state","kaduna-state","kano-state","katsina-state","kebbi","kogi-state","kwara-state","lagos","nasarawa-state","niger-state","ogun-state","ondo-state","osun-state","oyo-state","plateau-state","rivers-state","sokoto","taraba-state","yobe-state","zamfara-state"]});
+export default directory;

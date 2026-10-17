@@ -1,0 +1,3 @@
+// Generated directory metadata; public geographic tree.
+export const directory = Object.freeze({"name":"eastern-cape","repository":"africa","path":"south-africa/eastern-cape","depth":2,"children":["alice","aliwal-north","bhisho","burgersdorp","butterworth","cala","clydesdale","cradock","despatch","dimbaza","east-london","fort-beaufort","gonubie","gqeberha","graaff-reinet","grahamstown","humansdorp","jeffreys-bay","kariega","khowa","kruisfontein","lady-frere","mdantsane","motherwell","mthatha","ndevana","new-brighton","port-alfred","qonce","queensdale","queenstown","somerset-east","stutterheim","tlokoeng","ugie","whittlesea"]});
+export default directory;

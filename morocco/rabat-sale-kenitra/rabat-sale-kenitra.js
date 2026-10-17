@@ -1,0 +1,3 @@
+// Generated directory metadata; public geographic tree.
+export const directory = Object.freeze({"name":"rabat-sale-kenitra","repository":"africa","path":"morocco/rabat-sale-kenitra","depth":2,"children":["ain-attig","ain-el-aouda","bouknadel","el-harhoura","kenitra","khemisset","lalla-mimouna","mechraa-bel-ksiri","mehdya","mers-el-kheir","oulmes","rabat","sale","sale-al-jadida","sidi-allal-el-bahraoui","sidi-kacem","sidi-slimane","sidi-taibi","sidi-yahia-el-gharb","skhirate","souk-el-arbaa","souk-et-tnine-jorf-el-mellah","souq-larb-a-al-gharb","tamesna","temara","tiflet"]});
+export default directory;

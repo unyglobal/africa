@@ -1,0 +1,3 @@
+// Generated directory metadata; public geographic tree.
+export const directory = Object.freeze({"name":"tunisia","repository":"africa","path":"tunisia","depth":1,"children":["ariana-governorate","beja-governorate","ben-arous-governorate","bizerte-governorate","gabes-governorate","gafsa","jendouba-governorate","kairouan","kasserine-governorate","kebili-governorate","kef-governorate","mahdia-governorate","manouba","medenine-governorate","monastir-governorate","nabeul-governorate","sfax-governorate","sidi-bouzid-governorate","siliana-governorate","sousse-governorate","tataouine","tozeur-governorate","tunis-governorate","zaghouan-governorate"]});
+export default directory;

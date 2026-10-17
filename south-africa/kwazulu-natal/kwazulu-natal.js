@@ -1,0 +1,3 @@
+// Generated directory metadata; public geographic tree.
+export const directory = Object.freeze({"name":"kwazulu-natal","repository":"africa","path":"south-africa/kwazulu-natal","depth":2,"children":["ballitoville","dundee","durban","emkhomazi","empangeni","emuziwezinto","eshowe","esikhaleni","estcourt","folweni","frischgewaagd","ga-malakhe","glencoe","greytown","howick","kokstad","kwadukuza","ladysmith","mandeni","margate","mondlo","mooi-river","mpophomeni","mpumalanga","mtubatuba","ncotshane","newcastle","ntuzuma","pietermaritzburg","pinetown","port-shepstone","richards-bay","richmond","scottburgh","shakaskraal","tongaat","ulundi","vryheid","wembesi"]});
+export default directory;

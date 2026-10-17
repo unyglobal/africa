@@ -1,0 +1,3 @@
+// Generated directory metadata; public geographic tree.
+export const directory = Object.freeze({"name":"central-region","repository":"africa","path":"uganda/central-region","depth":2,"children":["bombo","buikwe","bukomero","bukuya","bunamwaya","butemba","entebbe","gombe","kajansi","kakiri","kalisizo","kampala","kasaali","kasambya","kasanda","kasangati","kasanje","katabi","kayunga","kiboga","kira","kireka","kiziba","kyazanga","kyengera","lugazi","lukaya","luwero","lwengo","lyantonde","masaka","mityana","mpigi","mubende","mukono","namasuba","namayumba","nansana","njeru","wakiso","wobulenzi"]});
+export default directory;
