@@ -1,3 +1,8 @@
-// Generated directory metadata; public geographic tree.
-export const directory = Object.freeze({"name":"kasai-central","repository":"africa","path":"dr-congo/kasai-central","depth":2,"children":["demba","kananga"]});
+// Hierarchical geographic directory module. Children are loaded only on demand.
+export const directory = Object.freeze({"name":"kasai-central","repository":"africa","path":"dr-congo/kasai-central","depth":2,"parent":"dr-congo","children":["demba","kananga"]});
+export const childModules = Object.freeze({"demba":"./demba/demba.js","kananga":"./kananga/kananga.js"});
+export async function loadChild(name) {
+  if (!Object.prototype.hasOwnProperty.call(childModules, name)) throw new RangeError("Unknown child directory: " + name);
+  return import(new URL(childModules[name], import.meta.url).href);
+}
 export default directory;

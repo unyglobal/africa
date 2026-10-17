@@ -1,3 +1,8 @@
-// Generated directory metadata; public geographic tree.
-export const directory = Object.freeze({"name":"dakahlia","repository":"africa","path":"egypt/dakahlia","depth":2,"children":["aga","al-jammaliyah","al-mansurah","al-manzalah","al-matariyah","as-salahat","as-sinbillawayn","bilqas","dikirnis","izbat-al-burj","kafr-al-kurdi","mahallat-damanah","minyat-an-nasr","mit-ghamr","mit-salsil","nabaruh","shirbin","talkha","timayy-al-imdid"]});
+// Hierarchical geographic directory module. Children are loaded only on demand.
+export const directory = Object.freeze({"name":"dakahlia","repository":"africa","path":"egypt/dakahlia","depth":2,"parent":"egypt","children":["aga","al-jammaliyah","al-mansurah","al-manzalah","al-matariyah","as-salahat","as-sinbillawayn","bilqas","dikirnis","izbat-al-burj","kafr-al-kurdi","mahallat-damanah","minyat-an-nasr","mit-ghamr","mit-salsil","nabaruh","shirbin","talkha","timayy-al-imdid"]});
+export const childModules = Object.freeze({"aga":"./aga/aga.js","al-jammaliyah":"./al-jammaliyah/al-jammaliyah.js","al-mansurah":"./al-mansurah/al-mansurah.js","al-manzalah":"./al-manzalah/al-manzalah.js","al-matariyah":"./al-matariyah/al-matariyah.js","as-salahat":"./as-salahat/as-salahat.js","as-sinbillawayn":"./as-sinbillawayn/as-sinbillawayn.js","bilqas":"./bilqas/bilqas.js","dikirnis":"./dikirnis/dikirnis.js","izbat-al-burj":"./izbat-al-burj/izbat-al-burj.js","kafr-al-kurdi":"./kafr-al-kurdi/kafr-al-kurdi.js","mahallat-damanah":"./mahallat-damanah/mahallat-damanah.js","minyat-an-nasr":"./minyat-an-nasr/minyat-an-nasr.js","mit-ghamr":"./mit-ghamr/mit-ghamr.js","mit-salsil":"./mit-salsil/mit-salsil.js","nabaruh":"./nabaruh/nabaruh.js","shirbin":"./shirbin/shirbin.js","talkha":"./talkha/talkha.js","timayy-al-imdid":"./timayy-al-imdid/timayy-al-imdid.js"});
+export async function loadChild(name) {
+  if (!Object.prototype.hasOwnProperty.call(childModules, name)) throw new RangeError("Unknown child directory: " + name);
+  return import(new URL(childModules[name], import.meta.url).href);
+}
 export default directory;

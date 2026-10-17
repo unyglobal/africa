@@ -1,3 +1,8 @@
-// Generated directory metadata; public geographic tree.
-export const directory = Object.freeze({"name":"libya","repository":"africa","path":"libya","depth":1,"children":["al-butnan","al-jabal-al-akhdar","al-jafarah","al-jufrah","al-kufrah","al-marj","al-marqab","al-wahat","an-nuqat-al-khams","az-zawiyah","banghazi","darnah","jabal-al-gharbi","misratah","murzuq-district","nalut","sabha-district","surt","tripoli","wadi-al-hayat","wadi-ash-shati"]});
+// Hierarchical geographic directory module. Children are loaded only on demand.
+export const directory = Object.freeze({"name":"libya","repository":"africa","path":"libya","depth":1,"parent":"","children":["al-butnan","al-jabal-al-akhdar","al-jafarah","al-jufrah","al-kufrah","al-marj","al-marqab","al-wahat","an-nuqat-al-khams","az-zawiyah","banghazi","darnah","jabal-al-gharbi","misratah","murzuq-district","nalut","sabha-district","surt","tripoli","wadi-al-hayat","wadi-ash-shati"]});
+export const childModules = Object.freeze({"al-butnan":"./al-butnan/al-butnan.js","al-jabal-al-akhdar":"./al-jabal-al-akhdar/al-jabal-al-akhdar.js","al-jafarah":"./al-jafarah/al-jafarah.js","al-jufrah":"./al-jufrah/al-jufrah.js","al-kufrah":"./al-kufrah/al-kufrah.js","al-marj":"./al-marj/al-marj.js","al-marqab":"./al-marqab/al-marqab.js","al-wahat":"./al-wahat/al-wahat.js","an-nuqat-al-khams":"./an-nuqat-al-khams/an-nuqat-al-khams.js","az-zawiyah":"./az-zawiyah/az-zawiyah.js","banghazi":"./banghazi/banghazi.js","darnah":"./darnah/darnah.js","jabal-al-gharbi":"./jabal-al-gharbi/jabal-al-gharbi.js","misratah":"./misratah/misratah.js","murzuq-district":"./murzuq-district/murzuq-district.js","nalut":"./nalut/nalut.js","sabha-district":"./sabha-district/sabha-district.js","surt":"./surt/surt.js","tripoli":"./tripoli/tripoli.js","wadi-al-hayat":"./wadi-al-hayat/wadi-al-hayat.js","wadi-ash-shati":"./wadi-ash-shati/wadi-ash-shati.js"});
+export async function loadChild(name) {
+  if (!Object.prototype.hasOwnProperty.call(childModules, name)) throw new RangeError("Unknown child directory: " + name);
+  return import(new URL(childModules[name], import.meta.url).href);
+}
 export default directory;
