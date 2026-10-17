@@ -1,0 +1,342 @@
+{"id":"2591945","name":"Caunda","city":"kikolo","region":"africa","distance_km":0.45,"path":"africa/angola/luanda/kikolo/caunda"}
+{"id":"12251309","name":"Grémio","city":"chinguar","region":"africa","distance_km":0.55,"path":"africa/angola/bie/chinguar/gremio"}
+{"id":"425374","name":"Rohero","city":"bujumbura","region":"africa","distance_km":0.37,"path":"africa/burundi/bujumbura-mairie/bujumbura/rohero"}
+{"id":"11258460","name":"Tshikinyega","city":"mahalapye","region":"africa","distance_km":0.07,"path":"africa/botswana/central/mahalapye/tshikinyega"}
+{"id":"11258572","name":"Block 5","city":"francistown","region":"africa","distance_km":0.95,"path":"africa/botswana/city-of-francistown/francistown/block-5"}
+{"id":"9469082","name":"Kalamu","city":"boma","region":"africa","distance_km":0.42,"path":"africa/dr-congo/bas-congo/boma/kalamu"}
+{"id":"2285091","name":"Dioulé","city":"logouale","region":"africa","distance_km":0.15,"path":"africa/ivory-coast/montagnes/logouale/dioule"}
+{"id":"2287879","name":"Hiré Ouatta","city":"hire","region":"africa","distance_km":0.37,"path":"africa/ivory-coast/goh-djiboua/hire/hire-ouatta"}
+{"id":"2287881","name":"Hiré Baoulé","city":"hire","region":"africa","distance_km":0.72,"path":"africa/ivory-coast/goh-djiboua/hire/hire-baoule"}
+{"id":"2235748","name":"Akwa","city":"douala","region":"africa","distance_km":0.51,"path":"africa/cameroon/littoral/douala/akwa"}
+{"id":"9085733","name":"Bamelong","city":"mbouda","region":"africa","distance_km":0.87,"path":"africa/cameroon/west/mbouda/bamelong"}
+{"id":"9096501","name":"Meli","city":"ndop","region":"africa","distance_km":0.87,"path":"africa/cameroon/north-west/ndop/meli"}
+{"id":"9110150","name":"Mfeyouom","city":"foumban","region":"africa","distance_km":0.62,"path":"africa/cameroon/west/foumban/mfeyouom"}
+{"id":"2499908","name":"Djemmâla","city":"tamalous","region":"africa","distance_km":0.83,"path":"africa/algeria/skikda/tamalous/djemmala"}
+{"id":"7376519","name":"Ech Chott","city":"ech-chettia","region":"africa","distance_km":0.8,"path":"africa/algeria/chlef/ech-chettia/ech-chott"}
+{"id":"7376524","name":"Ech Chehaifiya","city":"ech-chettia","region":"africa","distance_km":0.53,"path":"africa/algeria/chlef/ech-chettia/ech-chehaifiya"}
+{"id":"7525641","name":"Haï Salem","city":"el-attaf","region":"africa","distance_km":0.53,"path":"africa/algeria/ain-defla/el-attaf/hai-salem"}
+{"id":"360634","name":"Sakan Minţaqat al Qābūţī","city":"ad-dawahy","region":"africa","distance_km":0.94,"path":"africa/egypt/port-said/ad-dawahy/sakan-mintaqat-al-qabuti"}
+{"id":"7911620","name":"‘Imārāt Imtidād Ramsīs","city":"madinat-an-nasr","region":"africa","distance_km":0.43,"path":"africa/egypt/cairo/madinat-an-nasr/imarat-imtidad-ramsis"}
+{"id":"7914771","name":"Taqsīm ar Raqābah al Idārīyah","city":"hada-iq-al-qubbah","region":"africa","distance_km":0.46,"path":"africa/egypt/cairo/hada-iq-al-qubbah/taqsim-ar-raqabah-al-idariyah"}
+{"id":"7914774","name":"Masākin al Qubbah al Jadīdah","city":"hada-iq-al-qubbah","region":"africa","distance_km":0.73,"path":"africa/egypt/cairo/hada-iq-al-qubbah/masakin-al-qubbah-al-jadidah"}
+{"id":"7914779","name":"Al Wāylī al Kabīr","city":"hada-iq-al-qubbah","region":"africa","distance_km":0.94,"path":"africa/egypt/cairo/hada-iq-al-qubbah/al-wayli-al-kabir"}
+{"id":"7916118","name":"Al Manshīyah al Jadīdah","city":"shubra-al-khaymah","region":"africa","distance_km":0.93,"path":"africa/egypt/qalyubia/shubra-al-khaymah/al-manshiyah-al-jadidah"}
+{"id":"7916136","name":"‘Izbat ‘Uthmān","city":"shubra-al-khaymah","region":"africa","distance_km":0.31,"path":"africa/egypt/qalyubia/shubra-al-khaymah/izbat-uthman"}
+{"id":"7916141","name":"Madīnat as Sa‘ādah","city":"shubra-al-khaymah","region":"africa","distance_km":0.81,"path":"africa/egypt/qalyubia/shubra-al-khaymah/madinat-as-sa-adah"}
+{"id":"8374064","name":"Jarāj Ḩayy al Manākh","city":"az-zuhur","region":"africa","distance_km":0.47,"path":"africa/egypt/port-said/az-zuhur/jaraj-hayy-al-manakh"}
+{"id":"8622994","name":"Ḩayy al Qawāsimah","city":"ash-shaykh-zuwayd","region":"africa","distance_km":0.46,"path":"africa/egypt/north-sinai/ash-shaykh-zuwayd/hayy-al-qawasimah"}
+{"id":"8623003","name":"Ḩayy Abū Khawwār","city":"ash-shaykh-zuwayd","region":"africa","distance_km":0.99,"path":"africa/egypt/north-sinai/ash-shaykh-zuwayd/hayy-abu-khawwar"}
+{"id":"8623247","name":"Ḩayy al Muşābaḩah","city":"bi-r-al-abd","region":"africa","distance_km":0.36,"path":"africa/egypt/north-sinai/bi-r-al-abd/hayy-al-musabahah"}
+{"id":"8623268","name":"Ḩayy al ‘Aqāyilah","city":"bi-r-al-abd","region":"africa","distance_km":0.68,"path":"africa/egypt/north-sinai/bi-r-al-abd/hayy-al-aqayilah"}
+{"id":"8623270","name":"Ḩayy as Sarrāḩīn","city":"bi-r-al-abd","region":"africa","distance_km":0.07,"path":"africa/egypt/north-sinai/bi-r-al-abd/hayy-as-sarrahin"}
+{"id":"8623287","name":"Ḩayy aţ Ţāwinah","city":"bi-r-al-abd","region":"africa","distance_km":0.64,"path":"africa/egypt/north-sinai/bi-r-al-abd/hayy-at-tawinah"}
+{"id":"8715594","name":"Masākin ‘Uthmān","city":"az-zuhur","region":"africa","distance_km":0.51,"path":"africa/egypt/port-said/az-zuhur/masakin-uthman"}
+{"id":"8715595","name":"Masākin Khālid Bin al Walīd","city":"az-zuhur","region":"africa","distance_km":0.31,"path":"africa/egypt/port-said/az-zuhur/masakin-khalid-bin-al-walid"}
+{"id":"8715596","name":"Masākin ‘Umar Bin al Khaţţāb","city":"az-zuhur","region":"africa","distance_km":0.24,"path":"africa/egypt/port-said/az-zuhur/masakin-umar-bin-al-khattab"}
+{"id":"8715597","name":"Masākin aţ Ţāqah ash Shamsīyah","city":"az-zuhur","region":"africa","distance_km":0.34,"path":"africa/egypt/port-said/az-zuhur/masakin-at-taqah-ash-shamsiyah"}
+{"id":"9072927","name":"Masākin Shabāb al Madīnah","city":"az-zuhur","region":"africa","distance_km":0.43,"path":"africa/egypt/port-said/az-zuhur/masakin-shabab-al-madinah"}
+{"id":"10235493","name":"Tor Neighborhood","city":"el-tor","region":"africa","distance_km":0.56,"path":"africa/egypt/south-sinai/el-tor/tor-neighborhood"}
+{"id":"11238892","name":"Akebe-Plaine","city":"libreville","region":"africa","distance_km":0.85,"path":"africa/gabon/estuaire/libreville/akebe-plaine"}
+{"id":"2294289","name":"Upper Town","city":"esim","region":"africa","distance_km":0.88,"path":"africa/ghana/western/esim/upper-town"}
+{"id":"2298365","name":"Lower Town","city":"esim","region":"africa","distance_km":0.46,"path":"africa/ghana/western/esim/lower-town"}
+{"id":"2299991","name":"Jwewuhu","city":"swedru","region":"africa","distance_km":0.42,"path":"africa/ghana/central/swedru/jwewuhu"}
+{"id":"180451","name":"Shauri Moyo","city":"pumwani","region":"africa","distance_km":0.86,"path":"africa/kenya/nairobi-county/pumwani/shauri-moyo"}
+{"id":"182361","name":"Old Mombasa","city":"mombasa","region":"africa","distance_km":0.48,"path":"africa/kenya/mombasa-county/mombasa/old-mombasa"}
+{"id":"8477670","name":"Gikomba","city":"pumwani","region":"africa","distance_km":0.71,"path":"africa/kenya/nairobi-county/pumwani/gikomba"}
+{"id":"8477671","name":"Gorofani","city":"pumwani","region":"africa","distance_km":0.61,"path":"africa/kenya/nairobi-county/pumwani/gorofani"}
+{"id":"8477673","name":"Starehe","city":"pumwani","region":"africa","distance_km":0.66,"path":"africa/kenya/nairobi-county/pumwani/starehe"}
+{"id":"8477756","name":"Kenya Re","city":"imara-daima-estate","region":"africa","distance_km":0.37,"path":"africa/kenya/nairobi-county/imara-daima-estate/kenya-re"}
+{"id":"8477767","name":"Hardy","city":"lang-ata","region":"africa","distance_km":0.79,"path":"africa/kenya/nairobi-county/lang-ata/hardy"}
+{"id":"10344572","name":"Tayari","city":"mombasa","region":"africa","distance_km":0.88,"path":"africa/kenya/mombasa-county/mombasa/tayari"}
+{"id":"1091116","name":"Goungouamoué","city":"moutsamoudou","region":"africa","distance_km":0.85,"path":"africa/comoros/anjouan/moutsamoudou/goungouamoue"}
+{"id":"2276457","name":"Hoffman Station","city":"harper","region":"africa","distance_km":0.86,"path":"africa/liberia/maryland-county/harper/hoffman-station"}
+{"id":"2278866","name":"Bassa Community","city":"monrovia","region":"africa","distance_km":0.35,"path":"africa/liberia/montserrado-county/monrovia/bassa-community"}
+{"id":"2597296","name":"Gbandi Quarter","city":"gbarnga","region":"africa","distance_km":0.11,"path":"africa/liberia/bong-county/gbarnga/gbandi-quarter"}
+{"id":"2597297","name":"Mandingo Quarter","city":"gbarnga","region":"africa","distance_km":0.26,"path":"africa/liberia/bong-county/gbarnga/mandingo-quarter"}
+{"id":"2597298","name":"Lorma Quarters","city":"gbarnga","region":"africa","distance_km":0.42,"path":"africa/liberia/bong-county/gbarnga/lorma-quarters"}
+{"id":"2597299","name":"Bassa Community","city":"gbarnga","region":"africa","distance_km":0.31,"path":"africa/liberia/bong-county/gbarnga/bassa-community"}
+{"id":"2597300","name":"Fiju Quarter","city":"gbarnga","region":"africa","distance_km":0.37,"path":"africa/liberia/bong-county/gbarnga/fiju-quarter"}
+{"id":"2597301","name":"Barwalor Quarter","city":"gbarnga","region":"africa","distance_km":0.11,"path":"africa/liberia/bong-county/gbarnga/barwalor-quarter"}
+{"id":"9295703","name":"Capitol Hill","city":"monrovia","region":"africa","distance_km":0.29,"path":"africa/liberia/montserrado-county/monrovia/capitol-hill"}
+{"id":"9295704","name":"Jallah Town","city":"monrovia","region":"africa","distance_km":0.43,"path":"africa/liberia/montserrado-county/monrovia/jallah-town"}
+{"id":"8615288","name":"Ash Sharīf","city":"benghazi","region":"africa","distance_km":0.88,"path":"africa/libya/banghazi/benghazi/ash-sharif"}
+{"id":"8615289","name":"Bin ‘Īsá","city":"benghazi","region":"africa","distance_km":0.59,"path":"africa/libya/banghazi/benghazi/bin-isa"}
+{"id":"8615290","name":"Al Wuḩayshī","city":"benghazi","region":"africa","distance_km":0.61,"path":"africa/libya/banghazi/benghazi/al-wuhayshi"}
+{"id":"8615291","name":"Ad Durāwī","city":"benghazi","region":"africa","distance_km":0.66,"path":"africa/libya/banghazi/benghazi/ad-durawi"}
+{"id":"8615292","name":"Ghuraybīl","city":"benghazi","region":"africa","distance_km":0.8,"path":"africa/libya/banghazi/benghazi/ghuraybil"}
+{"id":"8615293","name":"Sīdī Ḩusayn","city":"benghazi","region":"africa","distance_km":0.73,"path":"africa/libya/banghazi/benghazi/sidi-husayn"}
+{"id":"8615564","name":"Al Madīnah al Qadīmah","city":"benghazi","region":"africa","distance_km":0.71,"path":"africa/libya/banghazi/benghazi/al-madinah-al-qadimah"}
+{"id":"12382289","name":"Ribat","city":"sirte","region":"africa","distance_km":0.89,"path":"africa/libya/surt/sirte/ribat"}
+{"id":"2530066","name":"Tawrirt","city":"ouarzazate","region":"africa","distance_km":0.52,"path":"africa/morocco/draa-tafilalet/ouarzazate/tawrirt"}
+{"id":"2535207","name":"Sidi Dawd","city":"ouarzazate","region":"africa","distance_km":0.38,"path":"africa/morocco/draa-tafilalet/ouarzazate/sidi-dawd"}
+{"id":"2542828","name":"Medina","city":"taza","region":"africa","distance_km":0.84,"path":"africa/morocco/fes-meknes/taza/medina"}
+{"id":"2551131","name":"Douar Ziane","city":"agourai","region":"africa","distance_km":0.7,"path":"africa/morocco/fes-meknes/agourai/douar-ziane"}
+{"id":"2553508","name":"Charf","city":"tangier","region":"africa","distance_km":0.93,"path":"africa/morocco/tanger-tetouan-al-hoceima/tangier/charf"}
+{"id":"2558421","name":"Lmellah","city":"kenitra","region":"africa","distance_km":0.89,"path":"africa/morocco/rabat-sale-kenitra/kenitra/lmellah"}
+{"id":"7870478","name":"Ain Nokbi","city":"fes-al-bali","region":"africa","distance_km":0.89,"path":"africa/morocco/fes-meknes/fes-al-bali/ain-nokbi"}
+{"id":"8431361","name":"Hay Karima","city":"sale","region":"africa","distance_km":0.9,"path":"africa/morocco/rabat-sale-kenitra/sale/hay-karima"}
+{"id":"8431362","name":"Douar Jdid","city":"sale","region":"africa","distance_km":0.37,"path":"africa/morocco/rabat-sale-kenitra/sale/douar-jdid"}
+{"id":"8431363","name":"Tabriquet","city":"sale","region":"africa","distance_km":0.91,"path":"africa/morocco/rabat-sale-kenitra/sale/tabriquet"}
+{"id":"8431365","name":"Hay Al Qods","city":"sale","region":"africa","distance_km":0.41,"path":"africa/morocco/rabat-sale-kenitra/sale/hay-al-qods"}
+{"id":"8431697","name":"Tour Hassan","city":"rabat","region":"africa","distance_km":0.9,"path":"africa/morocco/rabat-sale-kenitra/rabat/tour-hassan"}
+{"id":"8431702","name":"Les Ministères","city":"rabat","region":"africa","distance_km":0.32,"path":"africa/morocco/rabat-sale-kenitra/rabat/les-ministeres"}
+{"id":"8431703","name":"Touarga","city":"rabat","region":"africa","distance_km":0.36,"path":"africa/morocco/rabat-sale-kenitra/rabat/touarga"}
+{"id":"8473236","name":"Bachaouiya","city":"asilah","region":"africa","distance_km":0.54,"path":"africa/morocco/tanger-tetouan-al-hoceima/asilah/bachaouiya"}
+{"id":"8473238","name":"Hay Ghdir Lagnaoui","city":"asilah","region":"africa","distance_km":0.94,"path":"africa/morocco/tanger-tetouan-al-hoceima/asilah/hay-ghdir-lagnaoui"}
+{"id":"8473242","name":"Medina","city":"asilah","region":"africa","distance_km":0.49,"path":"africa/morocco/tanger-tetouan-al-hoceima/asilah/medina"}
+{"id":"8473243","name":"Hay Sidi Oualou","city":"asilah","region":"africa","distance_km":0.14,"path":"africa/morocco/tanger-tetouan-al-hoceima/asilah/hay-sidi-oualou"}
+{"id":"8473246","name":"Houmet Lhamra","city":"asilah","region":"africa","distance_km":0.38,"path":"africa/morocco/tanger-tetouan-al-hoceima/asilah/houmet-lhamra"}
+{"id":"8473247","name":"Hay Dorra","city":"asilah","region":"africa","distance_km":0.75,"path":"africa/morocco/tanger-tetouan-al-hoceima/asilah/hay-dorra"}
+{"id":"8473249","name":"Hay Lalla Rahma","city":"asilah","region":"africa","distance_km":0.49,"path":"africa/morocco/tanger-tetouan-al-hoceima/asilah/hay-lalla-rahma"}
+{"id":"8542186","name":"Lqods","city":"dakhla","region":"africa","distance_km":0.51,"path":"africa/morocco/souss-massa/dakhla/lqods"}
+{"id":"8542189","name":"Lfiddiya","city":"dakhla","region":"africa","distance_km":0.81,"path":"africa/morocco/souss-massa/dakhla/lfiddiya"}
+{"id":"8542212","name":"Hay Saada","city":"dchira-el-jihadia","region":"africa","distance_km":0.38,"path":"africa/morocco/souss-massa/dchira-el-jihadia/hay-saada"}
+{"id":"8542259","name":"Nouveau Talborjt","city":"agadir","region":"africa","distance_km":0.59,"path":"africa/morocco/souss-massa/agadir/nouveau-talborjt"}
+{"id":"8542278","name":"Extention Dakhla","city":"dakhla","region":"africa","distance_km":0.68,"path":"africa/morocco/souss-massa/dakhla/extention-dakhla"}
+{"id":"8542285","name":"Douar Rja Fellah","city":"dakhla","region":"africa","distance_km":0.83,"path":"africa/morocco/souss-massa/dakhla/douar-rja-fellah"}
+{"id":"8542296","name":"Quartier Ait Souss","city":"agadir","region":"africa","distance_km":0.69,"path":"africa/morocco/souss-massa/agadir/quartier-ait-souss"}
+{"id":"8542788","name":"Hay Atouafa","city":"agourai","region":"africa","distance_km":0.62,"path":"africa/morocco/fes-meknes/agourai/hay-atouafa"}
+{"id":"8559213","name":"Hay Ettanaoui I","city":"imzouren","region":"africa","distance_km":0.36,"path":"africa/morocco/tanger-tetouan-al-hoceima/imzouren/hay-ettanaoui-i"}
+{"id":"8559217","name":"Hay Ettanaoui II","city":"imzouren","region":"africa","distance_km":0.98,"path":"africa/morocco/tanger-tetouan-al-hoceima/imzouren/hay-ettanaoui-ii"}
+{"id":"8581454","name":"Wilaya of Agadir","city":"agadir","region":"africa","distance_km":0.58,"path":"africa/morocco/souss-massa/agadir/wilaya-of-agadir"}
+{"id":"8581456","name":"Chefchaouen Kasbah","city":"chefchaouen","region":"africa","distance_km":0.19,"path":"africa/morocco/tanger-tetouan-al-hoceima/chefchaouen/chefchaouen-kasbah"}
+{"id":"8581497","name":"Jnane Aztout","city":"larache","region":"africa","distance_km":0.75,"path":"africa/morocco/tanger-tetouan-al-hoceima/larache/jnane-aztout"}
+{"id":"10374888","name":"Hay Rochdi","city":"dchira-el-jihadia","region":"africa","distance_km":0.3,"path":"africa/morocco/souss-massa/dchira-el-jihadia/hay-rochdi"}
+{"id":"10374891","name":"Hay Oubayrouk","city":"ait-melloul","region":"africa","distance_km":0.34,"path":"africa/morocco/souss-massa/ait-melloul/hay-oubayrouk"}
+{"id":"10374905","name":"Hay Le Chalor","city":"dchira-el-jihadia","region":"africa","distance_km":0.48,"path":"africa/morocco/souss-massa/dchira-el-jihadia/hay-le-chalor"}
+{"id":"10374907","name":"Hay Az Zaytoune","city":"dchira-el-jihadia","region":"africa","distance_km":0.39,"path":"africa/morocco/souss-massa/dchira-el-jihadia/hay-az-zaytoune"}
+{"id":"10374933","name":"Hay Mauay Omar","city":"ait-melloul","region":"africa","distance_km":0.4,"path":"africa/morocco/souss-massa/ait-melloul/hay-mauay-omar"}
+{"id":"10374936","name":"Lotissement Gouchar","city":"ait-melloul","region":"africa","distance_km":0.49,"path":"africa/morocco/souss-massa/ait-melloul/lotissement-gouchar"}
+{"id":"10374937","name":"Dissemert Ltarari","city":"ait-melloul","region":"africa","distance_km":0.31,"path":"africa/morocco/souss-massa/ait-melloul/dissemert-ltarari"}
+{"id":"10374938","name":"Dauar Laarab","city":"ait-melloul","region":"africa","distance_km":0.15,"path":"africa/morocco/souss-massa/ait-melloul/dauar-laarab"}
+{"id":"10374951","name":"Cité Moulay Sahad","city":"inezgane","region":"africa","distance_km":0.64,"path":"africa/morocco/souss-massa/inezgane/cite-moulay-sahad"}
+{"id":"10375024","name":"Hay Lharch","city":"ait-melloul","region":"africa","distance_km":0.75,"path":"africa/morocco/souss-massa/ait-melloul/hay-lharch"}
+{"id":"10375031","name":"Douar Alt Rami","city":"lqoliaa","region":"africa","distance_km":0.98,"path":"africa/morocco/souss-massa/lqoliaa/douar-alt-rami"}
+{"id":"10375032","name":"Hay Bou L Kraker","city":"lqoliaa","region":"africa","distance_km":0.97,"path":"africa/morocco/souss-massa/lqoliaa/hay-bou-l-kraker"}
+{"id":"10375046","name":"Douar Aribat","city":"lqoliaa","region":"africa","distance_km":0.52,"path":"africa/morocco/souss-massa/lqoliaa/douar-aribat"}
+{"id":"10375048","name":"Dr. Laamar","city":"lqoliaa","region":"africa","distance_km":0.63,"path":"africa/morocco/souss-massa/lqoliaa/dr-laamar"}
+{"id":"10375049","name":"Douar Lhaj Tayla","city":"lqoliaa","region":"africa","distance_km":0.63,"path":"africa/morocco/souss-massa/lqoliaa/douar-lhaj-tayla"}
+{"id":"10375127","name":"Rashaz","city":"oadar-temsia","region":"africa","distance_km":0.79,"path":"africa/morocco/souss-massa/oadar-temsia/rashaz"}
+{"id":"10375210","name":"Douar Sidi Brahim","city":"my-drarga","region":"africa","distance_km":0.95,"path":"africa/morocco/souss-massa/my-drarga/douar-sidi-brahim"}
+{"id":"10375211","name":"Douar Facra Mbanek","city":"my-drarga","region":"africa","distance_km":0.62,"path":"africa/morocco/souss-massa/my-drarga/douar-facra-mbanek"}
+{"id":"10427499","name":"Hay El Alim","city":"tamallalt","region":"africa","distance_km":0.97,"path":"africa/morocco/marrakesh-safi/tamallalt/hay-el-alim"}
+{"id":"10638128","name":"Hay Echef Mbarek","city":"echemmaia-est","region":"africa","distance_km":0.57,"path":"africa/morocco/marrakesh-safi/echemmaia-est/hay-echef-mbarek"}
+{"id":"10638129","name":"Hay Edrabla","city":"echemmaia-est","region":"africa","distance_km":0.47,"path":"africa/morocco/marrakesh-safi/echemmaia-est/hay-edrabla"}
+{"id":"10638130","name":"Hay Eltahouna","city":"echemmaia-est","region":"africa","distance_km":0.87,"path":"africa/morocco/marrakesh-safi/echemmaia-est/hay-eltahouna"}
+{"id":"10638320","name":"Hay El Massira","city":"echemmaia-est","region":"africa","distance_km":0.49,"path":"africa/morocco/marrakesh-safi/echemmaia-est/hay-el-massira"}
+{"id":"10638324","name":"Dar Taliba","city":"echemmaia-est","region":"africa","distance_km":0.26,"path":"africa/morocco/marrakesh-safi/echemmaia-est/dar-taliba"}
+{"id":"10844154","name":"Blenfaisance","city":"tahla","region":"africa","distance_km":0.19,"path":"africa/morocco/fes-meknes/tahla/blenfaisance"}
+{"id":"10844177","name":"Hay El Tath","city":"tahla","region":"africa","distance_km":0.81,"path":"africa/morocco/fes-meknes/tahla/hay-el-tath"}
+{"id":"10868579","name":"Biyada","city":"safi","region":"africa","distance_km":0.56,"path":"africa/morocco/marrakesh-safi/safi/biyada"}
+{"id":"10917084","name":"Hay Hrilla","city":"sebt-gzoula","region":"africa","distance_km":0.7,"path":"africa/morocco/marrakesh-safi/sebt-gzoula/hay-hrilla"}
+{"id":"10917353","name":"Hay El Mosjid","city":"sebt-gzoula","region":"africa","distance_km":0.17,"path":"africa/morocco/marrakesh-safi/sebt-gzoula/hay-el-mosjid"}
+{"id":"10917354","name":"Hay El Anhaour","city":"sebt-gzoula","region":"africa","distance_km":0.69,"path":"africa/morocco/marrakesh-safi/sebt-gzoula/hay-el-anhaour"}
+{"id":"10918035","name":"Hay Lhassani","city":"benslimane","region":"africa","distance_km":0.7,"path":"africa/morocco/casablanca-settat/benslimane/hay-lhassani"}
+{"id":"10918036","name":"Hay Lqods","city":"benslimane","region":"africa","distance_km":0.45,"path":"africa/morocco/casablanca-settat/benslimane/hay-lqods"}
+{"id":"10918057","name":"Lbachaouiya","city":"benslimane","region":"africa","distance_km":0.97,"path":"africa/morocco/casablanca-settat/benslimane/lbachaouiya"}
+{"id":"10918246","name":"Hay El Farah","city":"benslimane","region":"africa","distance_km":0.96,"path":"africa/morocco/casablanca-settat/benslimane/hay-el-farah"}
+{"id":"10920922","name":"Hay Louifaq","city":"bouknadel","region":"africa","distance_km":0.35,"path":"africa/morocco/rabat-sale-kenitra/bouknadel/hay-louifaq"}
+{"id":"10921256","name":"Médina","city":"kenitra","region":"africa","distance_km":0.79,"path":"africa/morocco/rabat-sale-kenitra/kenitra/medina"}
+{"id":"10921585","name":"Kaf Lmal","city":"sefrou","region":"africa","distance_km":0.54,"path":"africa/morocco/fes-meknes/sefrou/kaf-lmal"}
+{"id":"10921588","name":"Hay Rachad","city":"sefrou","region":"africa","distance_km":0.85,"path":"africa/morocco/fes-meknes/sefrou/hay-rachad"}
+{"id":"10921589","name":"Lkhandeq","city":"sefrou","region":"africa","distance_km":0.75,"path":"africa/morocco/fes-meknes/sefrou/lkhandeq"}
+{"id":"10921626","name":"Hay Zalagh","city":"sefrou","region":"africa","distance_km":0.6,"path":"africa/morocco/fes-meknes/sefrou/hay-zalagh"}
+{"id":"10921630","name":"Quartier Amaqmouch","city":"sefrou","region":"africa","distance_km":0.63,"path":"africa/morocco/fes-meknes/sefrou/quartier-amaqmouch"}
+{"id":"10921631","name":"Qaryet Ben Saffar","city":"sefrou","region":"africa","distance_km":0.63,"path":"africa/morocco/fes-meknes/sefrou/qaryet-ben-saffar"}
+{"id":"10921632","name":"Habbouna","city":"sefrou","region":"africa","distance_km":0.77,"path":"africa/morocco/fes-meknes/sefrou/habbouna"}
+{"id":"10923173","name":"Quartier Dyour Jdud","city":"ouezzane","region":"africa","distance_km":0.83,"path":"africa/morocco/tanger-tetouan-al-hoceima/ouezzane/quartier-dyour-jdud"}
+{"id":"10923176","name":"Quartier Erremel","city":"ouezzane","region":"africa","distance_km":0.67,"path":"africa/morocco/tanger-tetouan-al-hoceima/ouezzane/quartier-erremel"}
+{"id":"10923192","name":"Quartier Bni Mrtne","city":"ouezzane","region":"africa","distance_km":0.5,"path":"africa/morocco/tanger-tetouan-al-hoceima/ouezzane/quartier-bni-mrtne"}
+{"id":"10923193","name":"Quartier Jnane Ali","city":"ouezzane","region":"africa","distance_km":0.19,"path":"africa/morocco/tanger-tetouan-al-hoceima/ouezzane/quartier-jnane-ali"}
+{"id":"10923194","name":"Quartier Gadir","city":"ouezzane","region":"africa","distance_km":0.34,"path":"africa/morocco/tanger-tetouan-al-hoceima/ouezzane/quartier-gadir"}
+{"id":"10923195","name":"Quartier Gallid","city":"ouezzane","region":"africa","distance_km":0.7,"path":"africa/morocco/tanger-tetouan-al-hoceima/ouezzane/quartier-gallid"}
+{"id":"10927618","name":"Hay El Quardi","city":"ben-guerir","region":"africa","distance_km":0.68,"path":"africa/morocco/marrakesh-safi/ben-guerir/hay-el-quardi"}
+{"id":"10927619","name":"Pieste Mahor","city":"ben-guerir","region":"africa","distance_km":0.57,"path":"africa/morocco/marrakesh-safi/ben-guerir/pieste-mahor"}
+{"id":"10927620","name":"El Hay El Jadid","city":"ben-guerir","region":"africa","distance_km":0.51,"path":"africa/morocco/marrakesh-safi/ben-guerir/el-hay-el-jadid"}
+{"id":"10927621","name":"Hay Afriqua","city":"ben-guerir","region":"africa","distance_km":0.82,"path":"africa/morocco/marrakesh-safi/ben-guerir/hay-afriqua"}
+{"id":"10927797","name":"Hay El Farah","city":"ben-guerir","region":"africa","distance_km":0.49,"path":"africa/morocco/marrakesh-safi/ben-guerir/hay-el-farah"}
+{"id":"10927798","name":"Hay Ennour","city":"ben-guerir","region":"africa","distance_km":0.4,"path":"africa/morocco/marrakesh-safi/ben-guerir/hay-ennour"}
+{"id":"10927799","name":"Hay Essalam","city":"ben-guerir","region":"africa","distance_km":0.75,"path":"africa/morocco/marrakesh-safi/ben-guerir/hay-essalam"}
+{"id":"10933551","name":"Hay Lhace","city":"ksar-el-kebir","region":"africa","distance_km":0.75,"path":"africa/morocco/tanger-tetouan-al-hoceima/ksar-el-kebir/hay-lhace"}
+{"id":"10933552","name":"Lotti Lfadl","city":"ksar-el-kebir","region":"africa","distance_km":0.98,"path":"africa/morocco/tanger-tetouan-al-hoceima/ksar-el-kebir/lotti-lfadl"}
+{"id":"10933554","name":"Hay Nahda","city":"ksar-el-kebir","region":"africa","distance_km":0.62,"path":"africa/morocco/tanger-tetouan-al-hoceima/ksar-el-kebir/hay-nahda"}
+{"id":"10933555","name":"Hay Lorouba","city":"ksar-el-kebir","region":"africa","distance_km":0.59,"path":"africa/morocco/tanger-tetouan-al-hoceima/ksar-el-kebir/hay-lorouba"}
+{"id":"10933560","name":"Hay Lmassira","city":"ksar-el-kebir","region":"africa","distance_km":0.68,"path":"africa/morocco/tanger-tetouan-al-hoceima/ksar-el-kebir/hay-lmassira"}
+{"id":"10933578","name":"Trèsorene","city":"ksar-el-kebir","region":"africa","distance_km":0.55,"path":"africa/morocco/tanger-tetouan-al-hoceima/ksar-el-kebir/tresorene"}
+{"id":"10933979","name":"Sahat Chohada","city":"larache","region":"africa","distance_km":0.17,"path":"africa/morocco/tanger-tetouan-al-hoceima/larache/sahat-chohada"}
+{"id":"10933981","name":"Bidon Ville","city":"larache","region":"africa","distance_km":0.75,"path":"africa/morocco/tanger-tetouan-al-hoceima/larache/bidon-ville"}
+{"id":"10933982","name":"Hay Nador","city":"larache","region":"africa","distance_km":0.98,"path":"africa/morocco/tanger-tetouan-al-hoceima/larache/hay-nador"}
+{"id":"10936611","name":"Hay Dehar","city":"ben-ahmed","region":"africa","distance_km":0.49,"path":"africa/morocco/casablanca-settat/ben-ahmed/hay-dehar"}
+{"id":"10937513","name":"Hay Nasr","city":"sidi-allal-el-bahraoui","region":"africa","distance_km":0.18,"path":"africa/morocco/rabat-sale-kenitra/sidi-allal-el-bahraoui/hay-nasr"}
+{"id":"10937514","name":"Caïdat","city":"sidi-allal-el-bahraoui","region":"africa","distance_km":0.64,"path":"africa/morocco/rabat-sale-kenitra/sidi-allal-el-bahraoui/caidat"}
+{"id":"10937515","name":"Frigot","city":"sidi-allal-el-bahraoui","region":"africa","distance_km":0.67,"path":"africa/morocco/rabat-sale-kenitra/sidi-allal-el-bahraoui/frigot"}
+{"id":"10938661","name":"Hay Ennasr","city":"el-gara","region":"africa","distance_km":0.63,"path":"africa/morocco/casablanca-settat/el-gara/hay-ennasr"}
+{"id":"10938662","name":"Hay El Masjid","city":"el-gara","region":"africa","distance_km":0.29,"path":"africa/morocco/casablanca-settat/el-gara/hay-el-masjid"}
+{"id":"10938665","name":"Hay Ennour","city":"el-gara","region":"africa","distance_km":0.73,"path":"africa/morocco/casablanca-settat/el-gara/hay-ennour"}
+{"id":"10938670","name":"Hay El Amal","city":"el-gara","region":"africa","distance_km":0.64,"path":"africa/morocco/casablanca-settat/el-gara/hay-el-amal"}
+{"id":"10945327","name":"Extention X","city":"agadir","region":"africa","distance_km":0.88,"path":"africa/morocco/souss-massa/agadir/extention-x"}
+{"id":"10945328","name":"Quartier Administratif","city":"agadir","region":"africa","distance_km":0.5,"path":"africa/morocco/souss-massa/agadir/quartier-administratif"}
+{"id":"10945330","name":"Quartier Résidentiel","city":"agadir","region":"africa","distance_km":0.89,"path":"africa/morocco/souss-massa/agadir/quartier-residentiel"}
+{"id":"10945596","name":"Derb Tine Biougra","city":"tine-biougra","region":"africa","distance_km":0.73,"path":"africa/morocco/souss-massa/tine-biougra/derb-tine-biougra"}
+{"id":"10945597","name":"Derb Gnaoua","city":"tine-biougra","region":"africa","distance_km":0.78,"path":"africa/morocco/souss-massa/tine-biougra/derb-gnaoua"}
+{"id":"10956983","name":"Hay Palestine","city":"berkane","region":"africa","distance_km":0.55,"path":"africa/morocco/oriental/berkane/hay-palestine"}
+{"id":"10957356","name":"Hay Boulouiz","city":"oujda","region":"africa","distance_km":0.64,"path":"africa/morocco/oriental/oujda/hay-boulouiz"}
+{"id":"10957357","name":"Hay Broukech","city":"oujda","region":"africa","distance_km":0.42,"path":"africa/morocco/oriental/oujda/hay-broukech"}
+{"id":"10957358","name":"Hay Mbassou","city":"oujda","region":"africa","distance_km":0.79,"path":"africa/morocco/oriental/oujda/hay-mbassou"}
+{"id":"10958492","name":"Hay Hammou Ezzayani","city":"bni-bouayach","region":"africa","distance_km":0.47,"path":"africa/morocco/tanger-tetouan-al-hoceima/bni-bouayach/hay-hammou-ezzayani"}
+{"id":"10958636","name":"Hay El Iskardariya","city":"bni-bouayach","region":"africa","distance_km":0.94,"path":"africa/morocco/tanger-tetouan-al-hoceima/bni-bouayach/hay-el-iskardariya"}
+{"id":"10961206","name":"Issekkajene","city":"zeghanghane","region":"africa","distance_km":0.99,"path":"africa/morocco/oriental/zeghanghane/issekkajene"}
+{"id":"10961207","name":"Iqasriouane","city":"zeghanghane","region":"africa","distance_km":0.6,"path":"africa/morocco/oriental/zeghanghane/iqasriouane"}
+{"id":"10961472","name":"Louahda","city":"selouane","region":"africa","distance_km":0.59,"path":"africa/morocco/oriental/selouane/louahda"}
+{"id":"10976697","name":"Kasbat Moulay El Hassan","city":"el-hajeb","region":"africa","distance_km":0.14,"path":"africa/morocco/fes-meknes/el-hajeb/kasbat-moulay-el-hassan"}
+{"id":"10976849","name":"Chrichira","city":"el-hajeb","region":"africa","distance_km":0.86,"path":"africa/morocco/fes-meknes/el-hajeb/chrichira"}
+{"id":"10984857","name":"Hay Ain Qudous","city":"new-fes","region":"africa","distance_km":0.59,"path":"africa/morocco/fes-meknes/new-fes/hay-ain-qudous"}
+{"id":"10985297","name":"Oulad El Arbi Ben Hommane","city":"karia-ba-mohamed","region":"africa","distance_km":0.53,"path":"africa/morocco/fes-meknes/karia-ba-mohamed/oulad-el-arbi-ben-hommane"}
+{"id":"10985298","name":"Filala","city":"karia-ba-mohamed","region":"africa","distance_km":0.31,"path":"africa/morocco/fes-meknes/karia-ba-mohamed/filala"}
+{"id":"10985299","name":"Hay Hamri","city":"karia-ba-mohamed","region":"africa","distance_km":0.96,"path":"africa/morocco/fes-meknes/karia-ba-mohamed/hay-hamri"}
+{"id":"10985300","name":"Kharba","city":"karia-ba-mohamed","region":"africa","distance_km":0.99,"path":"africa/morocco/fes-meknes/karia-ba-mohamed/kharba"}
+{"id":"10992941","name":"Lotissement Qorroba","city":"fes-al-bali","region":"africa","distance_km":0.98,"path":"africa/morocco/fes-meknes/fes-al-bali/lotissement-qorroba"}
+{"id":"10992942","name":"Lfakharine","city":"fes-al-bali","region":"africa","distance_km":0.99,"path":"africa/morocco/fes-meknes/fes-al-bali/lfakharine"}
+{"id":"10992970","name":"Hay Gueltet Zemanour","city":"fes","region":"africa","distance_km":0.55,"path":"africa/morocco/fes-meknes/fes/hay-gueltet-zemanour"}
+{"id":"10993089","name":"Jnane Harbuchi","city":"fes-al-bali","region":"africa","distance_km":0.61,"path":"africa/morocco/fes-meknes/fes-al-bali/jnane-harbuchi"}
+{"id":"10998312","name":"Hay El Mahummadi","city":"el-aioun","region":"africa","distance_km":0.9,"path":"africa/morocco/oriental/el-aioun/hay-el-mahummadi"}
+{"id":"10999598","name":"Hay Souq Chamali","city":"al-aaroui","region":"africa","distance_km":0.99,"path":"africa/morocco/oriental/al-aaroui/hay-souq-chamali"}
+{"id":"10999599","name":"Hay Souq Lgharbi","city":"al-aaroui","region":"africa","distance_km":0.38,"path":"africa/morocco/oriental/al-aaroui/hay-souq-lgharbi"}
+{"id":"10999600","name":"Hay Jdid","city":"al-aaroui","region":"africa","distance_km":0.49,"path":"africa/morocco/oriental/al-aaroui/hay-jdid"}
+{"id":"10999601","name":"Hay Lqods","city":"al-aaroui","region":"africa","distance_km":0.85,"path":"africa/morocco/oriental/al-aaroui/hay-lqods"}
+{"id":"10999603","name":"Commune Pachalik","city":"al-aaroui","region":"africa","distance_km":0.27,"path":"africa/morocco/oriental/al-aaroui/commune-pachalik"}
+{"id":"10999604","name":"Hay Souq Ljanoubi","city":"al-aaroui","region":"africa","distance_km":0.15,"path":"africa/morocco/oriental/al-aaroui/hay-souq-ljanoubi"}
+{"id":"10999607","name":"Hay Bouyleghmane","city":"al-aaroui","region":"africa","distance_km":0.94,"path":"africa/morocco/oriental/al-aaroui/hay-bouyleghmane"}
+{"id":"11025268","name":"Hay Saada","city":"sabaa-aiyoun","region":"africa","distance_km":0.26,"path":"africa/morocco/fes-meknes/sabaa-aiyoun/hay-saada"}
+{"id":"11025274","name":"Dar Ettaliba","city":"sabaa-aiyoun","region":"africa","distance_km":0.31,"path":"africa/morocco/fes-meknes/sabaa-aiyoun/dar-ettaliba"}
+{"id":"11025275","name":"Hay Sidi Mohamed El Moujahid","city":"sabaa-aiyoun","region":"africa","distance_km":0.45,"path":"africa/morocco/fes-meknes/sabaa-aiyoun/hay-sidi-mohamed-el-moujahid"}
+{"id":"11025589","name":"Hay Chaoui","city":"mechraa-bel-ksiri","region":"africa","distance_km":0.92,"path":"africa/morocco/rabat-sale-kenitra/mechraa-bel-ksiri/hay-chaoui"}
+{"id":"11025591","name":"Hay Baytat","city":"mechraa-bel-ksiri","region":"africa","distance_km":0.85,"path":"africa/morocco/rabat-sale-kenitra/mechraa-bel-ksiri/hay-baytat"}
+{"id":"11060099","name":"Drissiya","city":"tangier","region":"africa","distance_km":0.64,"path":"africa/morocco/tanger-tetouan-al-hoceima/tangier/drissiya"}
+{"id":"11060105","name":"Moulay Smail","city":"tangier","region":"africa","distance_km":0.98,"path":"africa/morocco/tanger-tetouan-al-hoceima/tangier/moulay-smail"}
+{"id":"11060532","name":"Bab Saida","city":"tetouan","region":"africa","distance_km":0.78,"path":"africa/morocco/tanger-tetouan-al-hoceima/tetouan/bab-saida"}
+{"id":"11060533","name":"Bab Mqaber","city":"tetouan","region":"africa","distance_km":0.45,"path":"africa/morocco/tanger-tetouan-al-hoceima/tetouan/bab-mqaber"}
+{"id":"11092584","name":"Hay Ilham","city":"ben-taieb","region":"africa","distance_km":0.34,"path":"africa/morocco/oriental/ben-taieb/hay-ilham"}
+{"id":"11092585","name":"Hay Lmassira","city":"ben-taieb","region":"africa","distance_km":0.63,"path":"africa/morocco/oriental/ben-taieb/hay-lmassira"}
+{"id":"11092590","name":"Nahj Tanja","city":"ben-taieb","region":"africa","distance_km":0.38,"path":"africa/morocco/oriental/ben-taieb/nahj-tanja"}
+{"id":"11092680","name":"Baid Lmaghrjb","city":"ben-taieb","region":"africa","distance_km":0.35,"path":"africa/morocco/oriental/ben-taieb/baid-lmaghrjb"}
+{"id":"11092682","name":"Commune Ben Taieb","city":"ben-taieb","region":"africa","distance_km":0.22,"path":"africa/morocco/oriental/ben-taieb/commune-ben-taieb"}
+{"id":"11092689","name":"Hay Sahb Ljam","city":"ben-taieb","region":"africa","distance_km":0.74,"path":"africa/morocco/oriental/ben-taieb/hay-sahb-ljam"}
+{"id":"11131490","name":"Dar Caid","city":"oulad-teima","region":"africa","distance_km":0.59,"path":"africa/morocco/souss-massa/oulad-teima/dar-caid"}
+{"id":"11143175","name":"Mellah","city":"taroudant","region":"africa","distance_km":0.5,"path":"africa/morocco/souss-massa/taroudant/mellah"}
+{"id":"11435670","name":"Khalota","city":"souq-sebt-oulad-nemma","region":"africa","distance_km":0.71,"path":"africa/morocco/beni-mellal-khenifra/souq-sebt-oulad-nemma/khalota"}
+{"id":"11470584","name":"Sidi Mohamed El Bouhali","city":"kasba-tadla","region":"africa","distance_km":0.59,"path":"africa/morocco/beni-mellal-khenifra/kasba-tadla/sidi-mohamed-el-bouhali"}
+{"id":"11101974","name":"Tanamakoa","city":"toamasina","region":"africa","distance_km":0.39,"path":"africa/madagascar/atsinanana/toamasina/tanamakoa"}
+{"id":"11204669","name":"Abattoir","city":"mahajanga","region":"africa","distance_km":0.64,"path":"africa/madagascar/boeny/mahajanga/abattoir"}
+{"id":"11427319","name":"Antananajojo","city":"hell-ville","region":"africa","distance_km":0.44,"path":"africa/madagascar/diana/hell-ville/antananajojo"}
+{"id":"11427320","name":"Ambalakatakata","city":"hell-ville","region":"africa","distance_km":0.5,"path":"africa/madagascar/diana/hell-ville/ambalakatakata"}
+{"id":"6879466","name":"Kouyan-N'Golobala","city":"niono","region":"africa","distance_km":0.76,"path":"africa/mali/segou/niono/kouyan-n-golobala"}
+{"id":"12225065","name":"Koloni Km26","city":"niono","region":"africa","distance_km":0.77,"path":"africa/mali/segou/niono/koloni-km26"}
+{"id":"12225066","name":"Kouyan-Peguena","city":"niono","region":"africa","distance_km":0.8,"path":"africa/mali/segou/niono/kouyan-peguena"}
+{"id":"934125","name":"Quinze Cantons","city":"vacoas","region":"africa","distance_km":0.68,"path":"africa/mauritius/plaines-wilhems/vacoas/quinze-cantons"}
+{"id":"934258","name":"Mont Fleury","city":"saint-pierre","region":"africa","distance_km":0.73,"path":"africa/mauritius/moka/saint-pierre/mont-fleury"}
+{"id":"934392","name":"L’Agrément","city":"saint-pierre","region":"africa","distance_km":0.26,"path":"africa/mauritius/moka/saint-pierre/l-agrement"}
+{"id":"934406","name":"La Caverne","city":"vacoas","region":"africa","distance_km":0.66,"path":"africa/mauritius/plaines-wilhems/vacoas/la-caverne"}
+{"id":"12170224","name":"Lulindo","city":"karonga","region":"africa","distance_km":0.93,"path":"africa/malawi/northern-region/karonga/lulindo"}
+{"id":"3355926","name":"Kroonlein","city":"keetmanshoop","region":"africa","distance_km":0.59,"path":"africa/namibia/karas-region/keetmanshoop/kroonlein"}
+{"id":"11239086","name":"Windhoek West","city":"windhoek","region":"africa","distance_km":0.56,"path":"africa/namibia/khomas-region/windhoek/windhoek-west"}
+{"id":"2446750","name":"Birni Silenké","city":"birnin-gaoure","region":"africa","distance_km":0.82,"path":"africa/niger/dosso-region/birnin-gaoure/birni-silenke"}
+{"id":"2566657","name":"Orile Oshodi","city":"oshodi","region":"africa","distance_km":0.99,"path":"africa/nigeria/lagos/oshodi/orile-oshodi"}
+{"id":"8751222","name":"Mafoni","city":"maiduguri","region":"africa","distance_km":0.96,"path":"africa/nigeria/borno-state/maiduguri/mafoni"}
+{"id":"8751226","name":"Shehuri","city":"maiduguri","region":"africa","distance_km":0.83,"path":"africa/nigeria/borno-state/maiduguri/shehuri"}
+{"id":"8751229","name":"Hausari","city":"maiduguri","region":"africa","distance_km":0.4,"path":"africa/nigeria/borno-state/maiduguri/hausari"}
+{"id":"11237556","name":"Okumagba Layout","city":"warri","region":"africa","distance_km":0.94,"path":"africa/nigeria/delta/warri/okumagba-layout"}
+{"id":"7592960","name":"Byumba Ville","city":"byumba","region":"africa","distance_km":0.56,"path":"africa/rwanda/northern-province/byumba/byumba-ville"}
+{"id":"363839","name":"West Town","city":"port-sudan","region":"africa","distance_km":0.78,"path":"africa/sudan/red-sea/port-sudan/west-town"}
+{"id":"367327","name":"Shambat","city":"khartoum-north","region":"africa","distance_km":0.78,"path":"africa/sudan/khartoum/khartoum-north/shambat"}
+{"id":"12422480","name":"Al Sāfyia","city":"khartoum-north","region":"africa","distance_km":0.26,"path":"africa/sudan/khartoum/khartoum-north/al-safyia"}
+{"id":"12422481","name":"Al Mazād","city":"khartoum-north","region":"africa","distance_km":0.54,"path":"africa/sudan/khartoum/khartoum-north/al-mazad"}
+{"id":"12422514","name":"H̱ay al Mustashfa","city":"omdurman","region":"africa","distance_km":0.95,"path":"africa/sudan/khartoum/omdurman/hay-al-mustashfa"}
+{"id":"12424227","name":"H̱ay al ‘Arab","city":"omdurman","region":"africa","distance_km":0.82,"path":"africa/sudan/khartoum/omdurman/hay-al-arab"}
+{"id":"12424228","name":"Ar Rabāţāb","city":"omdurman","region":"africa","distance_km":0.38,"path":"africa/sudan/khartoum/omdurman/ar-rabatab"}
+{"id":"12424229","name":"Al ‘Arḏah","city":"omdurman","region":"africa","distance_km":0.88,"path":"africa/sudan/khartoum/omdurman/al-ardah"}
+{"id":"9875395","name":"Kpayama","city":"kenema","region":"africa","distance_km":0.95,"path":"africa/sierra-leone/eastern-province/kenema/kpayama"}
+{"id":"11203881","name":"Moriba Town","city":"bo","region":"africa","distance_km":0.83,"path":"africa/sierra-leone/southern-province/bo/moriba-town"}
+{"id":"2595396","name":"Nguékokh Ouolof","city":"nguekhokh","region":"africa","distance_km":0.52,"path":"africa/senegal/thies/nguekhokh/nguekokh-ouolof"}
+{"id":"2595397","name":"Nguékokh Sérère","city":"nguekhokh","region":"africa","distance_km":0.93,"path":"africa/senegal/thies/nguekhokh/nguekokh-serere"}
+{"id":"2595552","name":"Keuri Kaw","city":"sebikhotane","region":"africa","distance_km":0.41,"path":"africa/senegal/dakar/sebikhotane/keuri-kaw"}
+{"id":"2595553","name":"Nguène","city":"sebikhotane","region":"africa","distance_km":0.48,"path":"africa/senegal/dakar/sebikhotane/nguene"}
+{"id":"2595695","name":"Dial Diop","city":"le-plateau","region":"africa","distance_km":0.25,"path":"africa/senegal/dakar/le-plateau/dial-diop"}
+{"id":"2595899","name":"Keur Seydou","city":"pout","region":"africa","distance_km":0.73,"path":"africa/senegal/thies/pout/keur-seydou"}
+{"id":"2595900","name":"Bambara","city":"pout","region":"africa","distance_km":0.55,"path":"africa/senegal/thies/pout/bambara"}
+{"id":"11257150","name":"Cité Pépinière","city":"pikine","region":"africa","distance_km":0.58,"path":"africa/senegal/dakar/pikine/cite-pepiniere"}
+{"id":"2590382","name":"Cité La Bâtie","city":"ben-arous","region":"africa","distance_km":0.81,"path":"africa/tunisia/ben-arous-governorate/ben-arous/cite-la-batie"}
+{"id":"7911272","name":"Djerba","city":"houmt-souk","region":"africa","distance_km":0.53,"path":"africa/tunisia/medenine-governorate/houmt-souk/djerba"}
+{"id":"12012645","name":"Jbal Lahmar","city":"tunis","region":"africa","distance_km":0.7,"path":"africa/tunisia/tunis-governorate/tunis/jbal-lahmar"}
+{"id":"12037395","name":"Cité El Inchirah","city":"den-den","region":"africa","distance_km":0.81,"path":"africa/tunisia/manouba/den-den/cite-el-inchirah"}
+{"id":"12037396","name":"Cité 3 Août","city":"den-den","region":"africa","distance_km":0.92,"path":"africa/tunisia/manouba/den-den/cite-3-aout"}
+{"id":"12037451","name":"Cité Mohamed Ali","city":"rades","region":"africa","distance_km":0.37,"path":"africa/tunisia/ben-arous-governorate/rades/cite-mohamed-ali"}
+{"id":"12037455","name":"Cité Ibnou Arafa","city":"ben-arous","region":"africa","distance_km":0.93,"path":"africa/tunisia/ben-arous-governorate/ben-arous/cite-ibnou-arafa"}
+{"id":"12037459","name":"Radès Menjil","city":"rades","region":"africa","distance_km":0.7,"path":"africa/tunisia/ben-arous-governorate/rades/rades-menjil"}
+{"id":"12037460","name":"Houmet Ouled Said","city":"rades","region":"africa","distance_km":0.4,"path":"africa/tunisia/ben-arous-governorate/rades/houmet-ouled-said"}
+{"id":"12037461","name":"Saniet El Hdiji","city":"rades","region":"africa","distance_km":0.76,"path":"africa/tunisia/ben-arous-governorate/rades/saniet-el-hdiji"}
+{"id":"12037462","name":"Cité Essadaka","city":"rades","region":"africa","distance_km":0.84,"path":"africa/tunisia/ben-arous-governorate/rades/cite-essadaka"}
+{"id":"12037467","name":"Cité du Dispensaire","city":"ben-arous","region":"africa","distance_km":0.59,"path":"africa/tunisia/ben-arous-governorate/ben-arous/cite-du-dispensaire"}
+{"id":"12037468","name":"Cité Ettaamir","city":"ben-arous","region":"africa","distance_km":0.63,"path":"africa/tunisia/ben-arous-governorate/ben-arous/cite-ettaamir"}
+{"id":"12037469","name":"Cité du Stade","city":"ben-arous","region":"africa","distance_km":0.43,"path":"africa/tunisia/ben-arous-governorate/ben-arous/cite-du-stade"}
+{"id":"12180992","name":"La Ksiba","city":"bizerte","region":"africa","distance_km":0.34,"path":"africa/tunisia/bizerte-governorate/bizerte/la-ksiba"}
+{"id":"12181005","name":"El Attarine","city":"bizerte","region":"africa","distance_km":0.19,"path":"africa/tunisia/bizerte-governorate/bizerte/el-attarine"}
+{"id":"12181012","name":"La Medina","city":"bizerte","region":"africa","distance_km":0.37,"path":"africa/tunisia/bizerte-governorate/bizerte/la-medina"}
+{"id":"12181024","name":"La Kasbah","city":"bizerte","region":"africa","distance_km":0.54,"path":"africa/tunisia/bizerte-governorate/bizerte/la-kasbah"}
+{"id":"12181032","name":"Place des Potiers","city":"bizerte","region":"africa","distance_km":0.48,"path":"africa/tunisia/bizerte-governorate/bizerte/place-des-potiers"}
+{"id":"12181038","name":"Cité Hassen Ennouri","city":"bizerte","region":"africa","distance_km":0.81,"path":"africa/tunisia/bizerte-governorate/bizerte/cite-hassen-ennouri"}
+{"id":"12181047","name":"Cité el Andalous","city":"bizerte","region":"africa","distance_km":0.83,"path":"africa/tunisia/bizerte-governorate/bizerte/cite-el-andalous"}
+{"id":"12186664","name":"Cité Ain Mnekh","city":"el-kef","region":"africa","distance_km":0.61,"path":"africa/tunisia/kef-governorate/el-kef/cite-ain-mnekh"}
+{"id":"12186680","name":"Cité Ahmed Cherichi","city":"el-kef","region":"africa","distance_km":0.82,"path":"africa/tunisia/kef-governorate/el-kef/cite-ahmed-cherichi"}
+{"id":"12186692","name":"Cité Erriadh","city":"el-kef","region":"africa","distance_km":0.26,"path":"africa/tunisia/kef-governorate/el-kef/cite-erriadh"}
+{"id":"12186716","name":"Cité Essaada","city":"el-kef","region":"africa","distance_km":0.31,"path":"africa/tunisia/kef-governorate/el-kef/cite-essaada"}
+{"id":"12186739","name":"Cité el Andalous","city":"el-kef","region":"africa","distance_km":0.86,"path":"africa/tunisia/kef-governorate/el-kef/cite-el-andalous"}
+{"id":"12186740","name":"Cité Fourati","city":"el-kef","region":"africa","distance_km":0.57,"path":"africa/tunisia/kef-governorate/el-kef/cite-fourati"}
+{"id":"12186743","name":"Cité Ennouhoudh","city":"el-kef","region":"africa","distance_km":0.4,"path":"africa/tunisia/kef-governorate/el-kef/cite-ennouhoudh"}
+{"id":"12186761","name":"Cité Ibn Khaldoun","city":"el-kef","region":"africa","distance_km":0.94,"path":"africa/tunisia/kef-governorate/el-kef/cite-ibn-khaldoun"}
+{"id":"12186772","name":"Cité Harrouch","city":"el-kef","region":"africa","distance_km":0.97,"path":"africa/tunisia/kef-governorate/el-kef/cite-harrouch"}
+{"id":"12187519","name":"Cité el Hana","city":"sidi-bouzid","region":"africa","distance_km":1,"path":"africa/tunisia/sidi-bouzid-governorate/sidi-bouzid/cite-el-hana"}
+{"id":"12187583","name":"Cité el Fraijia","city":"sidi-bouzid","region":"africa","distance_km":0.91,"path":"africa/tunisia/sidi-bouzid-governorate/sidi-bouzid/cite-el-fraijia"}
+{"id":"12187612","name":"Cité Ennour Est","city":"sidi-bouzid","region":"africa","distance_km":0.57,"path":"africa/tunisia/sidi-bouzid-governorate/sidi-bouzid/cite-ennour-est"}
+{"id":"12187675","name":"Cité Ouled Belhedi","city":"sidi-bouzid","region":"africa","distance_km":0.55,"path":"africa/tunisia/sidi-bouzid-governorate/sidi-bouzid/cite-ouled-belhedi"}
+{"id":"12187728","name":"Cité Ennour Ouest","city":"sidi-bouzid","region":"africa","distance_km":0.92,"path":"africa/tunisia/sidi-bouzid-governorate/sidi-bouzid/cite-ennour-ouest"}
+{"id":"13444796","name":"El Habib","city":"le-bardo","region":"africa","distance_km":0.54,"path":"africa/tunisia/tunis-governorate/le-bardo/el-habib"}
+{"id":"149734","name":"Stone Town","city":"zanzibar","region":"africa","distance_km":0.77,"path":"africa/tanzania/zanzibar-urban-west/zanzibar/stone-town"}
+{"id":"151729","name":"Ngambo","city":"zanzibar","region":"africa","distance_km":0.38,"path":"africa/tanzania/zanzibar-urban-west/zanzibar/ngambo"}
+{"id":"9253660","name":"Kariakoo","city":"dar-es-salaam","region":"africa","distance_km":0.64,"path":"africa/tanzania/dar-es-salaam-region/dar-es-salaam/kariakoo"}
+{"id":"8468702","name":"Nakasero","city":"kampala","region":"africa","distance_km":0.9,"path":"africa/uganda/central-region/kampala/nakasero"}
+{"id":"939662","name":"Willows","city":"bloemfontein","region":"africa","distance_km":0.85,"path":"africa/south-africa/free-state/bloemfontein/willows"}
+{"id":"940445","name":"Wesbank","city":"oudtshoorn","region":"africa","distance_km":0.96,"path":"africa/south-africa/western-cape/oudtshoorn/wesbank"}
+{"id":"963502","name":"Quigney","city":"east-london","region":"africa","distance_km":0.42,"path":"africa/south-africa/eastern-cape/east-london/quigney"}
+{"id":"966305","name":"Panorama","city":"empangeni","region":"africa","distance_km":0.93,"path":"africa/south-africa/kwazulu-natal/empangeni/panorama"}
+{"id":"971292","name":"New Rail","city":"empangeni","region":"africa","distance_km":0.87,"path":"africa/south-africa/kwazulu-natal/empangeni/new-rail"}
+{"id":"978652","name":"Marshalltown","city":"johannesburg","region":"africa","distance_km":0.79,"path":"africa/south-africa/gauteng/johannesburg/marshalltown"}
+{"id":"982684","name":"Linkside","city":"mossel-bay","region":"africa","distance_km":0.57,"path":"africa/south-africa/western-cape/mossel-bay/linkside"}
+{"id":"1000460","name":"Grantham Park","city":"empangeni","region":"africa","distance_km":0.71,"path":"africa/south-africa/kwazulu-natal/empangeni/grantham-park"}
+{"id":"1000935","name":"Gonubie Park","city":"gonubie","region":"africa","distance_km":0.53,"path":"africa/south-africa/eastern-cape/gonubie/gonubie-park"}
+{"id":"1004519","name":"Fairview","city":"empangeni","region":"africa","distance_km":0.64,"path":"africa/south-africa/kwazulu-natal/empangeni/fairview"}
+{"id":"1005265","name":"Erand","city":"midrand","region":"africa","distance_km":0.83,"path":"africa/south-africa/gauteng/midrand/erand"}
+{"id":"1022366","name":"Arcadia","city":"east-london","region":"africa","distance_km":0.96,"path":"africa/south-africa/eastern-cape/east-london/arcadia"}
+{"id":"3359348","name":"Windsor Park","city":"kraaifontein","region":"africa","distance_km":0.98,"path":"africa/south-africa/western-cape/kraaifontein/windsor-park"}
+{"id":"3361739","name":"Schotschekloof","city":"cape-town","region":"africa","distance_km":0.75,"path":"africa/south-africa/western-cape/cape-town/schotschekloof"}
+{"id":"3364313","name":"Marina da Gama","city":"muizenberg","region":"africa","distance_km":0.77,"path":"africa/south-africa/western-cape/muizenberg/marina-da-gama"}
+{"id":"3364360","name":"Malay Quarter","city":"cape-town","region":"africa","distance_km":0.93,"path":"africa/south-africa/western-cape/cape-town/malay-quarter"}
+{"id":"3366835","name":"Hiddingh","city":"rondebosch","region":"africa","distance_km":0.97,"path":"africa/south-africa/western-cape/rondebosch/hiddingh"}
+{"id":"7870452","name":"Pretoria Central","city":"pretoria","region":"africa","distance_km":0.18,"path":"africa/south-africa/gauteng/pretoria/pretoria-central"}
+{"id":"8063423","name":"Cowies Hill","city":"pinetown","region":"africa","distance_km":0.69,"path":"africa/south-africa/kwazulu-natal/pinetown/cowies-hill"}
+{"id":"9405856","name":"South Beach","city":"durban","region":"africa","distance_km":0.46,"path":"africa/south-africa/kwazulu-natal/durban/south-beach"}
+{"id":"11002806","name":"Station Hill","city":"port-alfred","region":"africa","distance_km":0.89,"path":"africa/south-africa/eastern-cape/port-alfred/station-hill"}
+{"id":"11203950","name":"Diepsloot West 6","city":"diepsloot","region":"africa","distance_km":0.75,"path":"africa/south-africa/gauteng/diepsloot/diepsloot-west-6"}
+{"id":"11203989","name":"Gamalakhe-A","city":"ga-malakhe","region":"africa","distance_km":0.2,"path":"africa/south-africa/kwazulu-natal/ga-malakhe/gamalakhe-a"}
+{"id":"11204284","name":"Itsoseng Unit 1","city":"itsoseng","region":"africa","distance_km":0.73,"path":"africa/south-africa/north-west/itsoseng/itsoseng-unit-1"}
+{"id":"11204286","name":"Itsoseng Unit 3","city":"itsoseng","region":"africa","distance_km":0.52,"path":"africa/south-africa/north-west/itsoseng/itsoseng-unit-3"}
+{"id":"11204444","name":"Molapo","city":"soweto","region":"africa","distance_km":1,"path":"africa/south-africa/gauteng/soweto/molapo"}
+{"id":"11204602","name":"Peerless Park East","city":"kraaifontein","region":"africa","distance_km":0.55,"path":"africa/south-africa/western-cape/kraaifontein/peerless-park-east"}
+{"id":"11257195","name":"Shakaville","city":"kwadukuza","region":"africa","distance_km":0.47,"path":"africa/south-africa/kwazulu-natal/kwadukuza/shakaville"}
+{"id":"11258214","name":"Nieuveld Park","city":"beaufort-west","region":"africa","distance_km":0.8,"path":"africa/south-africa/western-cape/beaufort-west/nieuveld-park"}
+{"id":"11258856","name":"eMondlo","city":"mondlo","region":"africa","distance_km":0.91,"path":"africa/south-africa/kwazulu-natal/mondlo/emondlo"}
+{"id":"11280696","name":"Senaoane","city":"soweto","region":"africa","distance_km":0.86,"path":"africa/south-africa/gauteng/soweto/senaoane"}
+{"id":"11282022","name":"Dinwiddie","city":"germiston","region":"africa","distance_km":0.45,"path":"africa/south-africa/gauteng/germiston/dinwiddie"}
+{"id":"11352357","name":"Grimbeek Park","city":"potchefstroom","region":"africa","distance_km":0.66,"path":"africa/south-africa/north-west/potchefstroom/grimbeek-park"}
+{"id":"11467863","name":"Rant-En-Dal","city":"krugersdorp","region":"africa","distance_km":0.95,"path":"africa/south-africa/gauteng/krugersdorp/rant-en-dal"}
+{"id":"11496179","name":"Secunda Exit 6","city":"trichardt","region":"africa","distance_km":0.55,"path":"africa/south-africa/mpumalanga/trichardt/secunda-exit-6"}
